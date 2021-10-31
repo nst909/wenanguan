@@ -1,6 +1,6 @@
 文案馆，书写关于你的文案。
 
-![image](https://github.com/cnhai/wenanguan/blob/main/images/yanshi.png)
+![image](https://github.com/cnhai/wenanguan/blob/main/images/1.png)
 
 调试环境配置为：Linux+Nginx+PHP7.4+Mysql
 
