@@ -22,7 +22,6 @@ function checkfunc($f,$m = false) {
 		}
 	}
 }
-
 function checkclass($f,$m = false) {
 	if (class_exists($f)) {
 		return '<font color="green">可用</font>';
