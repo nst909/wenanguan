@@ -1,7 +1,7 @@
 #文案馆
 文案馆，书写关于你的文案。
 
-![](https://blog.junsangs.com/usr/uploads/2021/10/1411433095.png)
+![image](https://blog.junsangs.com/usr/uploads/2021/10/1411433095.png)
 
 调试环境配置为：Linux+Nginx+PHP7.4+Mysql
 
