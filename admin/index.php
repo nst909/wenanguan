@@ -4,6 +4,7 @@ $title='后台管理';
 include './head.php';
 if($islogin==1){}else exit("<script language='javascript'>window.location.href='./login.php';</script>");
 ?>
+
   <nav class="navbar navbar-fixed-top navbar-default">
     <div class="container">
       <div class="navbar-header">
