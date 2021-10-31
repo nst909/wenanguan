@@ -24,7 +24,6 @@
        <p><input type="text" name="towho" placeholder="摘抄与哪个平台？或者是您原创？" class="his" id="gtowho" ></p>
         文案
         <p><textarea name="content" cols="30" rows="5" placeholder="书写你的文案" class="his" id="gcontent"></textarea></p>
-        
         <p><input type="submit" value="发布" class="hidegaobaisubmit"></p>
     </form>
 </div>
