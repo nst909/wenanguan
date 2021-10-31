@@ -81,7 +81,7 @@ $id = xss_clean(daddslashes($_GET['id']));
 				</div>
 			</div>
 			<div class="pmain">
-				<p><span class="towho">我想对<?php echo $row[$i]['towho'] ?>说：</span><?php echo $row[$i]['msg'] ?></p>
+				<p><span class="towho">来自<?php echo $row[$i]['towho'] ?>：</span><?php echo $row[$i]['msg'] ?></p>
 			</div>
 			<div class="pf">
 				<ul id="reply-<?php echo $id ?>" class="hidethis">
