@@ -1,6 +1,6 @@
 # 文案馆，书写关于你的文案。
 
-![image](https://github.com/cnhai/wenanguan/blob/main/images/1.png)
+![image](https://raw.githubusercontent.com/cnhai/wenanguan/main/images/1.png)
 
 调试环境配置为：`Linux+Nginx+PHP7.4+Mysql`
 
@@ -17,7 +17,7 @@
 
 *github项目地址：https://github.com/cnhai/wenanguan*
 
-*直连下载地址：https://blog.junsangs.com/url/wenanguan/*
+*码云项目地址：https://gitee.com/ranan101/wenanguan*
 
 *花海博客：https://blog.junsangs.com/*
 
