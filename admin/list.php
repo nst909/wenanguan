@@ -3,6 +3,7 @@
   文案列表
   https://blog.junsangs.com/
 **/
+
 include("../php/common.php");
 $title='文案列表';
 include './head.php';
