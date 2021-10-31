@@ -1,6 +1,6 @@
 # 文案馆，书写关于你的文案。
 
-![image](https://raw.githubusercontent.com/cnhai/wenanguan/main/images/1.png)
+![image](https://cdn.jsdelivr.net/gh/ranan101/img/1.png)
 
 调试环境配置为：`Linux+Nginx+PHP7.4+Mysql`
 
