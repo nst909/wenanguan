@@ -22,7 +22,6 @@ $b = 10*$y;
   $i = 0;
   while($i <= $j-1 ){
 ?>
-  
   <div class="point">
     <div class="zzan">
       <a href="javascript:" class="jzan"><span id="<?php echo $id = $row[$i]['id'] ?>"><?php echo $row[$i]['zan'] ?></span>
