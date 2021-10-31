@@ -120,7 +120,6 @@ $id = xss_clean(daddslashes($_GET['id']));
 				<p>长按保存二维码分享：<img src="https://pis.junsangs.com/api/QRcode/src.php?text=<?php echo curPageURL();?>&size=100"></p>
 		</div>	
   </div>
-  
 <?php
 function curPageURL() 
 {
