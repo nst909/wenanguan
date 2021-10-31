@@ -3,6 +3,7 @@
   登录
   https://blog.junsangs.com/
 **/
+
 include("../php/common.php");
 if(isset($_POST['user']) && isset($_POST['pass'])){
   $user=daddslashes($_POST['user']);
