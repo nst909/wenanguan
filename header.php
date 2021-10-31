@@ -32,7 +32,7 @@ include 'php/common.php';
 <body>
 	<div class="header">
 
-		<img src="images/logo.png" alt="告白墙" class="logo"><br>
+		<img src="images/logo.png" alt="文案馆" class="logo"><br>
 		<a href="javascript:" class="butt">写文案</a>
 		<div class="nav">
 			<ul>
