@@ -4,6 +4,8 @@
 
 调试环境配置为：`Linux+Nginx+PHP7.4+Mysql`
 
+建议配合堡塔NGINX防火墙使用（免费、付费都行）
+
 程序兼容性广泛，你也可以选用其他IIS Apache等WEB程序使用PHP5.2以上脚本语言运行
 
 **演示地址：http://writing.junsangs.com/**
