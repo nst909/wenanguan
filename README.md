@@ -19,8 +19,6 @@
 
 *码云项目地址：https://gitee.com/ranan101/wenanguan*
 
-*花海博客：https://blog.junsangs.com/*
-
 ------
 本项目由SillyLi表白墙修改而来，原项目地址：*https://github.com/SillyLi67/Forlover*
 
