@@ -15,7 +15,7 @@
 如果您还有任何疑问，或对程序有任何意见或者建议请加入QQ群：**893196615** 大喊群主~
 ------
 
-*github项目地址：https://github.com/cnhai/wenanguan*
+*github项目地址：https://github.com/hututu9/wenanguan*
 
 *码云项目地址：https://gitee.com/ranan101/wenanguan*
 
